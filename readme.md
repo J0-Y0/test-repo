@@ -1,2 +1,5 @@
 # JanX 
-my first web app
+my first web application 
+
+project on git
+
